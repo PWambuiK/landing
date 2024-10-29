@@ -1,0 +1,23 @@
+.card img{
+  width: 150px;
+}
+
+.card p{
+  color:rgb(143, 138, 138);
+
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 150px;
+}
+
+.card{
+  text-align: center;
+  box-shadow:0 10px 30px rgba(4, 85, 10, 0.1);
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+}

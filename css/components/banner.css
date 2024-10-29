@@ -1,0 +1,15 @@
+.banner{
+  background-size: cover;
+  background-image: center;
+  padding: 200px;
+}
+
+.banner h1{
+  color: whitesmoke;
+}
+
+.banner p{
+  color: rgb(184, 177, 177);
+}
+
+
